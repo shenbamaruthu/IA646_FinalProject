@@ -26,8 +26,8 @@ Project Implementation:
  3. **Metric 2:** No of Messages by datetime
         
         Using the Dataframe,data is grouped by message and date
-            ![](https:/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/MessagebyDate.png)
-
+    ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/MessagebyDate.png](MessagebyDate.png)
+ 
  4. **Metric 3:**
 
  5. **Metric 4** : Trace the Might Longitude and Latitude in the map
