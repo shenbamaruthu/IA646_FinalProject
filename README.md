@@ -33,6 +33,10 @@ Project Implementation:
         Using the Dataframe, data grouped by count of message and flight for top 5 flights.
     ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/FlightsbyMessages.png](FlightsbyMessages.png)
  
+ 5. **Metric 4**
+
+        HeatMap generated with the Longitude and Latitude, for few flights.
+ ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/HeatMap.png](HeatMap.png)
  6. **Metric 4** : Trace the Might Longitude and Latitude in the map
         
            Using Panda Dataframe, get the list of flights and then query the dataframe for the min / max 
