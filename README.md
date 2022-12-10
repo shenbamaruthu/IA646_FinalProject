@@ -28,12 +28,14 @@ Project Implementation:
         Using the Dataframe,data is grouped by message and date
     ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/MessagebyDate.png](MessagebyDate.png)
  
- 4. **Metric 3:**
-
- 5. **Metric 4** : Trace the Might Longitude and Latitude in the map
+ 4. **Metric 3:** Top 5 flights by message count 
         
-        Using Panda Dataframe, get the list of flights and then query the dataframe for the min / max 
-        of the Longitude and Latitude of the flights. With the plotly module, tried to plot the Longitude and
-        Latitude in the map.
-            !(/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/PlotinMap.png)](./PlotinMap.png)
+        Using the Dataframe, data grouped by count of message and flight for top 5 flights.
+    ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/FlightsbyMessages.png](FlightsbyMessages.png)
  
+ 6. **Metric 4** : Trace the Might Longitude and Latitude in the map
+        
+           Using Panda Dataframe, get the list of flights and then query the dataframe for the min / max 
+           of the Longitude and Latitude of the flights. With the plotly module, tried to plot the Longitude and
+           Latitude in the map.
+       ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/PlotinMap.png](PlotinMap.png)
