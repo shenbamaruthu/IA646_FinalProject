@@ -37,7 +37,8 @@ Project Implementation:
 
         HeatMap generated with the Longitude and Latitude, for few flights.
  ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/HeatMap.png](HeatMap.png)
- 6. **Metric 4** : Trace the Might Longitude and Latitude in the map
+ 
+6.**Metric 4** : Trace the Might Longitude and Latitude in the map
         
            Using Panda Dataframe, get the list of flights and then query the dataframe for the min / max 
            of the Longitude and Latitude of the flights. With the plotly module, tried to plot the Longitude and
