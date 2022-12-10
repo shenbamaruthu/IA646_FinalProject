@@ -21,7 +21,7 @@ Project Implementation:
  2. **Metric 1:** No of Flights by datetime
         
         Using the Panda Dataframe, data is grouped by the Date and the flight.
-            ![FlightsbyDatetime](./img.png)
+    ![/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/img.png](img.png)
 
  3. **Metric 2:** No of Messages by datetime
         
@@ -35,5 +35,5 @@ Project Implementation:
         Using Panda Dataframe, get the list of flights and then query the dataframe for the min / max 
         of the Longitude and Latitude of the flights. With the plotly module, tried to plot the Longitude and
         Latitude in the map.
-            ![[img_1.png](/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/PlotinMap.png)](./PlotinMap.png)
+            !(/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/PlotinMap.png)](./PlotinMap.png)
  
