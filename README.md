@@ -27,7 +27,7 @@ Project Implementation:
  3. **Metric 2:** No of Messages by datetime
         
         Using the Dataframe,data is grouped by message and date
-            ![](MessagebyDate.png)
+            ![](https:/Users/shenbamaruthamuthu/Documents/GitHub/IA646_FinalProject/MessagebyDate.png)
 
  4. **Metric 3:**
 
